@@ -10,7 +10,7 @@ Steps To Reproduce:-
 1. Login to the Application.
 2. Go to "https://ip/Topology-Map.php" page.
 3. Add 'xo' parameter at the end of the URL.
-   Example:- https://ip/Topology-Map.php?xo=<img src=x onerror=alert(document.domain)>
+   Example:- ```https://ip/Topology-Map.php?xo=<img src=x onerror=alert(document.domain)>```
 
 Reference: CVE-2020-15028
 
