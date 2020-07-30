@@ -1,6 +1,6 @@
 # NeDi-1.9C-Multiple-CVEs
 
-##Multiple Cross-Site Script Vulnerabilities found in NeDi 1.9C version.
+## Multiple Cross-Site Script Vulnerabilities found in NeDi 1.9C version.
 
 **Description:-**
 NeDi 1.9C is vulnerable to a cross-site scripting (XSS) attack.
